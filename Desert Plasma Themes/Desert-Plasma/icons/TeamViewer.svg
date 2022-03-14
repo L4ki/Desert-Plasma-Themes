@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="TeamViewer.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="22-22-TeamViewer"
+     transform="translate(32,10.000001)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="-4.6325681e-08"
+       id="rect2" />
+    <polygon
+       points="23.32,10.85 23.32,28.64 20.91,26.23 19.76,27.38 24.17,31.79 28.59,27.38 27.43,26.23 24.95,28.72 24.95,9.22 10.03,9.22 10.03,10.85 "
+       id="polygon8-7-3-36"
+       transform="matrix(0,0.3390241,-0.3390241,0,19.075022,5.973967)"
+       style="fill:#d6dbf1;fill-opacity:1" />
+    <polygon
+       points="8.68,21.15 8.68,3.28 11.16,5.77 12.31,4.62 7.9,0.21 3.49,4.62 4.64,5.77 7.05,3.36 7.05,22.78 21.97,22.78 21.97,21.15 "
+       id="polygon10-5-6-7"
+       transform="matrix(0,0.3390241,-0.3390241,0,13.789635,5.150139)"
+       style="fill:#d6dbf1;fill-opacity:1" />
+    <path
+       style="color:#d5c289;fill:#d6dbf1;fill-opacity:1;stroke-width:1"
+       class="ColorScheme-Text"
+       d="m 11,3 c -4.424001,0 -8,3.576013 -8,8 0,4.424013 3.575999,8 8,8 4.424,0 8,-3.575987 8,-8 0,-4.423987 -3.576,-8 -8,-8 z m 0,1.000013 c 3.869987,0 7,3.130002 7,6.999987 0,3.869984 -3.130013,7.000013 -7,7.000013 C 7.129986,18.000013 3.999999,14.869984 3.999999,11 3.999999,7.130015 7.129986,4.000013 11,4.000013 Z m 0.749987,5.719004 v 0 0 0 0 0 c 0,0 -0.03394,0.0076 0,0 z m -0.780994,4.499981 z"
+       id="path58-5"
+       sodipodi:nodetypes="ssssssssssccccccccccccccccc" />
+  </g>
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <linearGradient
+       id="oomox"
+       x1="0.45854774"
+       x2="0.45854774"
+       y1="0.20984644"
+       y2="15.209846"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#303b3d; stop-opacity:1"
+         id="stop18" />
+      <stop
+         offset="100%"
+         style="stop-color:#bc985d; stop-opacity:1"
+         id="stop20" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="6.9384855"
+     inkscape:cx="32.57195"
+     inkscape:cy="21.258241"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid864"
+       originx="0"
+       originy="-4.6325681e-08" />
+  </sodipodi:namedview>
+  <g
+     id="TeamViewer">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="4.6325681e-08"
+       id="rect7" />
+    <polygon
+       points="19.76,27.38 24.17,31.79 28.59,27.38 27.43,26.23 24.95,28.72 24.95,9.22 10.03,9.22 10.03,10.85 23.32,10.85 23.32,28.64 20.91,26.23 "
+       id="polygon8-7-3"
+       transform="matrix(0,0.50853615,-0.50853615,0,28.112533,8.4609514)"
+       style="fill:#d6dbf1;fill-opacity:1" />
+    <polygon
+       points="12.31,4.62 7.9,0.21 3.49,4.62 4.64,5.77 7.05,3.36 7.05,22.78 21.97,22.78 21.97,21.15 8.68,21.15 8.68,3.28 11.16,5.77 "
+       id="polygon10-5-6"
+       transform="matrix(0,0.50853615,-0.50853615,0,20.184453,7.2252088)"
+       style="fill:#d6dbf1;fill-opacity:1" />
+    <path
+       style="color:#d5c289;fill:#d6dbf1;fill-opacity:1;stroke-width:1.5"
+       class="ColorScheme-Text"
+       d="M 16,4 C 9.363998,4 4,9.3640195 4,16 4,22.636019 9.363998,28 16,28 22.636,28 28,22.636019 28,16 28,9.3640195 22.636,4 16,4 Z m 0,1.5000195 C 21.80498,5.5000195 26.5,10.195023 26.5,16 26.5,21.804976 21.80498,26.500019 16,26.500019 10.194979,26.500019 5.499998,21.804976 5.499998,16 5.499998,10.195023 10.194979,5.5000195 16,5.5000195 Z m 1.12498,8.5785055 v 0 0 0 0 0 c 0,0 -0.05091,0.0114 0,0 z m -1.171491,6.749972 z"
+       id="path58"
+       sodipodi:nodetypes="ssssssssssccccccccccccccccc" />
+  </g>
+</svg>
