@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="korgac.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +28,7 @@
      id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -40,15 +40,16 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="6.9384853"
-     inkscape:cx="19.817005"
-     inkscape:cy="15.925666"
+     inkscape:cx="30.914528"
+     inkscape:cy="24.573087"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12"
+     inkscape:current-layer="korgac"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid858"
