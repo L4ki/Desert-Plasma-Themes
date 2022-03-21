@@ -5,3 +5,16 @@ Download: https://www.pling.com/p/1733294
 
 
 [![Logo-3.png](https://i.postimg.cc/YSPm7YMJ/Logo-3.png)](https://postimg.cc/67dQL770)
+
+Changelog: 21.03.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update icon: korgac.svg
+
+Icons
+-----
+
+Added new icons: devices (22)
