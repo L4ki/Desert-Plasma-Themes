@@ -18,3 +18,16 @@ Icons
 -----
 
 Added new icons: devices (22)
+
+Changelog: 28.03.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: tasks.svg
+
+Icons
+-----
+
+Added new icons: devices (24)
