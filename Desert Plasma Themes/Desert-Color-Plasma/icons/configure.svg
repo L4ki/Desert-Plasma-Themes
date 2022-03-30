@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   sodipodi:docname="configure.svg"
-   height="22.000006"
-   width="22"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   width="32"
+   height="32"
    version="1.1"
-   id="svg"
-   viewBox="0 0 22 22.000006"
+   id="svg17"
+   sodipodi:docname="configure.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,142 +13,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <g
-     id="22-22-configure"
-     transform="translate(22,6.0000076)">
-    <rect
-       style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none"
-       id="rect4159"
-       width="16"
-       height="16.000004"
-       x="0"
-       y="3.1628417e-08" />
-    <rect
-       id="rect4156-4"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       rx="0.87499988"
-       y="6.2499928"
-       height="3.4999995"
-       width="3.4999995"
-       x="1"
-       class="ColorScheme-Text" />
-    <rect
-       id="rect4158-8"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       width="3.4999995"
-       height="3.4999995"
-       x="11.500001"
-       y="6.2499928"
-       rx="0.87499988"
-       class="ColorScheme-Text " />
-    <rect
-       id="rect4160-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       rx="0.87499988"
-       x="6.2499986"
-       height="3.4999995"
-       width="3.4999995"
-       y="1"
-       class="ColorScheme-Text" />
-    <rect
-       id="rect4162-1"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       width="3.4999995"
-       height="3.4999995"
-       x="6.2499986"
-       y="11.499999"
-       rx="0.87499988"
-       class="ColorScheme-Text" />
-    <rect
-       id="rect4164-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       transform="rotate(45)"
-       width="3.4999995"
-       height="3.4999995"
-       x="4.3139749"
-       y="-1.7499837"
-       rx="0.87499988"
-       class="ColorScheme-Text" />
-    <rect
-       id="rect4166-2"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       transform="rotate(45)"
-       rx="0.87499988"
-       y="-1.7499837"
-       x="14.813963"
-       height="3.4999995"
-       width="3.4999995"
-       class="ColorScheme-Text" />
-    <rect
-       id="rect4168-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       transform="rotate(45)"
-       width="3.4999995"
-       height="3.4999995"
-       x="9.5639677"
-       y="-7.0000048"
-       rx="0.87499988"
-       class="ColorScheme-Text" />
-    <rect
-       id="rect4170-2"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       transform="rotate(45)"
-       rx="0.87499988"
-       y="3.5000029"
-       x="9.5639677"
-       height="3.4999995"
-       width="3.4999995"
-       class="ColorScheme-Text" />
-    <path
-       id="path4172-2"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       d="m 7.8922236,2.2047299 a 5.6874993,5.6874993 0 0 0 -5.6874993,5.6875 5.6874993,5.6874993 0 0 0 5.6874993,5.6874951 5.6874993,5.6874993 0 0 0 5.6875014,-5.6874961 5.6874993,5.6874993 0 0 0 -5.6875014,-5.6875 m 0,3.0625 a 2.6249995,2.6249995 0 0 1 2.6250004,2.625 A 2.6249995,2.6249995 0 0 1 7.8922236,10.517229 2.6249995,2.6249995 0 0 1 5.2672241,7.8922299 2.6249995,2.6249995 0 0 1 7.8922236,5.2672289"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Text" />
-    <path
-       id="path4174-6"
-       style="color:#3daee6;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.875"
-       d="m 7.9999993,3.6250009 a 4.3749993,4.3749993 0 0 0 -4.3749996,4.375 4.3749993,4.3749993 0 0 0 4.3749996,4.3750001 4.3749993,4.3749993 0 0 0 4.3749997,-4.3750001 4.3749993,4.3749993 0 0 0 -4.3749997,-4.375 m 0,2.625 a 1.7500003,1.7500003 0 0 1 1.7499998,1.75 1.7500003,1.7500003 0 0 1 -1.7499998,1.7500001 1.7500003,1.7500003 0 0 1 -1.7499996,-1.7500001 1.7500003,1.7500003 0 0 1 1.7499996,-1.75"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight" />
-    <rect
-       inkscape:label="#rect4696"
-       ry="2.1875"
-       y="5.8125119"
-       x="5.812499"
-       height="4.375"
-       width="4.375"
-       id="rect4696-1"
-       style="stroke-opacity:1;stroke-dasharray:none;stroke-miterlimit:4;stroke-width:0.4375;stroke:none;fill-rule:evenodd;fill-opacity:1;fill:currentColor;"
-       class="ColorScheme-Text" />
-  </g>
-  <defs
-     id="defs81">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#d6dbf1; }
-.ColorScheme-Background { color:#EFF0F1; }
-.ColorScheme-Highlight { color:#3DAEE6; }
-.ColorScheme-ViewText { color:#7B7C7E; }
-.ColorScheme-ViewBackground { color:#FCFCFC; }
-.ColorScheme-ViewHover { color:#3DAEE6; }
-.ColorScheme-ViewFocus { color:#1E92FF; }
-.ColorScheme-ButtonText { color:#7B7C7E; }
-.ColorScheme-ButtonBackground { color:#EFF0F1; }
-.ColorScheme-ButtonHover { color:#3DAEE6; }
-.ColorScheme-ButtonFocus { color:#1E92FF; }
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee6; }
+.ColorSheme-Text { color:#d6dbf1; }
 </style>
-    <linearGradient
-       id="linearGradient5606"
-       inkscape:swatch="solid">
-      <stop
-         id="stop5608"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-    </linearGradient>
-  </defs>
   <metadata
-     id="metadata34">
+     id="metadata23">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -159,185 +27,362 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs21" />
   <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="6.9384853"
+     inkscape:cx="19.024325"
+     inkscape:cy="-0.79268021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17"
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:guide-bbox="true"
-     showguides="true"
-     borderlayer="false"
-     inkscape:current-layer="svg"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="9.4133586"
-     inkscape:cx="19.445436"
-     inkscape:zoom="11.313709"
-     showgrid="false"
-     id="namedview32"
-     inkscape:window-height="1015"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.10196078"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
-       snapvisiblegridlinesonly="true"
-       enabled="true"
-       visible="true"
-       empspacing="4"
-       id="grid3046"
        type="xygrid"
-       originx="-2.2031237e-08"
-       originy="1.2210206e-05" />
+       id="grid863"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
-  <g
-     transform="translate(-486.16354,15.513285)"
-     style="display:inline"
-     inkscape:label="status"
-     id="layer9" />
-  <g
-     transform="translate(-245.16334,-601.48671)"
-     style="display:inline"
-     inkscape:label="places"
-     id="layer1" />
-  <g
-     transform="translate(-486.16354,15.513285)"
-     style="display:inline"
-     inkscape:label="mimetypes"
-     id="layer14" />
-  <g
-     transform="translate(-486.16354,15.513285)"
-     style="display:inline"
-     inkscape:label="emblems"
-     id="layer15" />
-  <g
-     transform="translate(-486.16354,15.513285)"
-     style="display:inline"
-     inkscape:label="emotes"
-     id="g71291" />
-  <g
-     transform="translate(-245.16334,-451.48671)"
-     style="display:inline"
-     inkscape:label="apps"
-     id="g6058" />
-  <g
-     transform="translate(-486.16354,15.513285)"
-     style="display:inline"
-     inkscape:label="actions"
-     id="layer12" />
   <g
      id="configure">
     <rect
-       y="-6.2102054e-06"
-       x="2.2031236e-08"
-       height="22.000006"
-       width="22"
-       id="rect2985"
-       style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none" />
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect12" />
     <rect
        id="rect4156"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       rx="1.5"
+       y="13.000001"
+       height="6"
+       width="6"
+       x="4"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4158"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       width="6"
+       height="6"
+       x="22"
+       y="13.000001"
+       rx="1.5"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4160"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       rx="1.5"
+       x="13"
+       height="6"
+       width="6"
+       y="4"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4162"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       width="6"
+       height="6"
+       x="13"
+       y="22"
+       rx="1.5"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4164"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       transform="rotate(45.000001)"
+       width="6"
+       height="6"
+       x="10.627853"
+       y="-3.0000007"
+       rx="1.5"
+       class="ColorScheme-Text  ColorSheme-Text " />
+    <rect
+       id="rect4166"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       transform="rotate(45.000001)"
+       rx="1.5"
+       y="-3.0000007"
+       x="28.627857"
+       height="6"
+       width="6"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4168"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       transform="rotate(45.000001)"
+       width="6"
+       height="6"
+       x="19.627857"
+       y="-12"
+       rx="1.5"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4170"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       transform="rotate(45.000001)"
+       rx="1.5"
+       y="5.9999995"
+       x="19.627857"
+       height="6"
+       width="6"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <path
+       id="path4172"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       d="m 15.815242,6.0652429 a 9.75,9.7500004 0 0 0 -9.7500002,9.7500001 9.75,9.7500004 0 0 0 9.7500002,9.75 9.75,9.7500004 0 0 0 9.750001,-9.750001 9.75,9.7500004 0 0 0 -9.750001,-9.7499991 m 0,5.2500001 a 4.5,4.5000002 0 0 1 4.500001,4.499999 4.5,4.5000002 0 0 1 -4.500001,4.500001 4.5,4.5000002 0 0 1 -4.5,-4.5 4.5,4.5000002 0 0 1 4.5,-4.5"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <path
+       id="path4174"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.5"
+       d="M 16,8.5 A 7.5,7.5000003 0 0 0 8.4999998,16 7.5,7.5000003 0 0 0 16,23.500001 7.5,7.5000003 0 0 0 23.5,16 7.5,7.5000003 0 0 0 16,8.5 m 0,4.5 a 3,3.0000001 0 0 1 3,3 3,3.0000001 0 0 1 -3,3.000001 A 3,3.0000001 0 0 1 13,16 3,3.0000001 0 0 1 16,13"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight " />
+    <rect
+       inkscape:label="#rect4696"
+       ry="3.7500002"
+       y="12.250001"
+       x="12.25"
+       height="7.5000005"
+       width="7.5"
+       id="rect4696"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       class="ColorScheme-Text  ColorSheme-Text" />
+  </g>
+  <g
+     id="22-22-configure"
+     transform="translate(0,-22)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2" />
+    <rect
+       id="rect4156-7"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
        rx="1"
        y="9"
        height="4"
        width="4"
        x="3"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <rect
-       id="rect4158"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
+       id="rect4158-1"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
        width="4"
        height="4"
        x="15"
        y="9"
        rx="1"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <rect
-       id="rect4160"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
+       id="rect4160-7"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
        rx="1"
        x="9"
        height="4"
        width="4"
        y="3"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <rect
-       id="rect4162"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
+       id="rect4162-2"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
        width="4"
        height="4"
        x="9"
        y="15"
        rx="1"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <rect
-       id="rect4164"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       transform="rotate(45)"
+       id="rect4164-7"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
+       transform="rotate(45.000001)"
        width="4"
        height="4"
-       x="7.5566406"
-       y="-2"
+       x="7.5566397"
+       y="-1.9999981"
        rx="1"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <rect
-       id="rect4166"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       transform="rotate(45)"
+       id="rect4166-2"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
+       transform="rotate(45.000001)"
        rx="1"
-       y="-2"
-       x="19.556641"
+       y="-1.9999981"
+       x="19.556644"
        height="4"
        width="4"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <rect
-       id="rect4168"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       transform="rotate(45)"
+       id="rect4168-2"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
+       transform="rotate(45.000001)"
        width="4"
        height="4"
-       x="13.556641"
-       y="-8"
+       x="13.556643"
+       y="-8.0000019"
        rx="1"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <rect
-       id="rect4170"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       transform="rotate(45)"
+       id="rect4170-6"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
+       transform="rotate(45.000001)"
        rx="1"
-       y="4"
-       x="13.556641"
+       y="4.0000019"
+       x="13.556643"
        height="4"
        width="4"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <path
-       id="path4172"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       d="m 10.876828,4.3768285 a 6.5,6.5 0 0 0 -6.4999997,6.5000005 6.5,6.5 0 0 0 6.4999997,6.499999 6.5,6.5 0 0 0 6.500001,-6.5 6.5,6.5 0 0 0 -6.500001,-6.4999995 m 0,3.5 a 3,3 0 0 1 3.000001,2.9999995 3,3 0 0 1 -3.000001,3 3,3 0 0 1 -2.9999997,-2.999999 3,3 0 0 1 2.9999997,-3.0000005"
+       id="path4172-1"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 10.876828,4.376829 a 6.5,6.5000003 0 0 0 -6.5,6.5 6.5,6.5000003 0 0 0 6.5,6.5 6.5,6.5000003 0 0 0 6.500001,-6.500001 6.5,6.5000003 0 0 0 -6.500001,-6.499999 m 0,3.5 a 3,3.0000001 0 0 1 3.000001,2.999999 3,3.0000001 0 0 1 -3.000001,3.000001 3,3.0000001 0 0 1 -3,-3 3,3.0000001 0 0 1 3,-3"
        inkscape:connector-curvature="0"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorSheme-Text" />
     <path
-       id="path4174"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       d="m 11,6 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 m 0,3 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2"
+       id="path4174-0"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1"
+       d="M 11,6 A 5,5.0000002 0 0 0 6,11 5,5.0000002 0 0 0 11,16.000001 5,5.0000002 0 0 0 16,11 5,5.0000002 0 0 0 11,6 m 0,3 a 2,2.0000001 0 0 1 2,2 2,2.0000001 0 0 1 -2,2.000001 A 2,2.0000001 0 0 1 9,11 2,2.0000001 0 0 1 11,9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight " />
+    <rect
+       inkscape:label="#rect4696"
+       ry="2.5000002"
+       y="8.5"
+       x="8.5"
+       height="5.0000005"
+       width="5"
+       id="rect4696-6"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       class="ColorScheme-Text  ColorSheme-Text" />
+  </g>
+  <g
+     id="16-16-configure"
+     transform="translate(0,-38)">
+    <rect
+       style="opacity:0.00100002"
+       width="16"
+       height="16"
+       x="0"
+       y="0"
+       id="rect7" />
+    <rect
+       id="rect4156-7-1"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       rx="0.75"
+       y="6.4999995"
+       height="3"
+       width="3"
+       x="2"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4158-1-5"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       width="3"
+       height="3"
+       x="11"
+       y="6.4999995"
+       rx="0.75"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4160-7-9"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       rx="0.75"
+       x="6.5"
+       height="3"
+       width="3"
+       y="2"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4162-2-4"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       width="3"
+       height="3"
+       x="6.5"
+       y="11.000002"
+       rx="0.75"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4164-7-9"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       transform="rotate(45.000001)"
+       width="3"
+       height="3"
+       x="5.3139257"
+       y="-1.4999974"
+       rx="0.75"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4166-2-0"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       transform="rotate(45.000001)"
+       rx="0.75"
+       y="-1.4999974"
+       x="14.31393"
+       height="3"
+       width="3"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4168-2-9"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       transform="rotate(45.000001)"
+       width="3"
+       height="3"
+       x="9.8139296"
+       y="-6.000001"
+       rx="0.75"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <rect
+       id="rect4170-6-1"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       transform="rotate(45.000001)"
+       rx="0.75"
+       y="3.0000026"
+       x="9.8139296"
+       height="3"
+       width="3"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <path
+       id="path4172-1-7"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       d="m 7.907621,3.032622 a 4.875,4.8750002 0 0 0 -4.875,4.875 4.875,4.8750002 0 0 0 4.875,4.875 4.875,4.8750002 0 0 0 4.875001,-4.875001 4.875,4.8750002 0 0 0 -4.875001,-4.874999 m 0,2.625 a 2.25,2.2500001 0 0 1 2.250001,2.249999 2.25,2.2500001 0 0 1 -2.250001,2.250001 2.25,2.2500001 0 0 1 -2.25,-2.25 2.25,2.2500001 0 0 1 2.25,-2.25"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text  ColorSheme-Text" />
+    <path
+       id="path4174-0-7"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
+       d="M 8,4.25 A 3.75,3.7500002 0 0 0 4.25,8 3.75,3.7500002 0 0 0 8,11.750001 3.75,3.7500002 0 0 0 11.75,8 3.75,3.7500002 0 0 0 8,4.25 M 8,6.5 A 1.5,1.5000001 0 0 1 9.5,8 1.5,1.5000001 0 0 1 8,9.500001 1.5,1.5000001 0 0 1 6.5,8 1.5,1.5000001 0 0 1 8,6.5"
        inkscape:connector-curvature="0"
        class="ColorScheme-Highlight" />
     <rect
        inkscape:label="#rect4696"
-       ry="2.5"
-       y="8.5"
-       x="8.5"
-       height="5"
-       width="5"
-       id="rect4696"
-       style="stroke-opacity:1;stroke-dasharray:none;stroke-miterlimit:4;stroke-width:0.5;stroke:none;fill-rule:evenodd;fill-opacity:1;fill:currentColor;"
-       class="ColorScheme-Text" />
+       ry="1.8750002"
+       y="6.1249995"
+       x="6.125"
+       height="3.7500005"
+       width="3.75"
+       id="rect4696-6-1"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       class="ColorScheme-Text  ColorSheme-Text" />
   </g>
 </svg>
