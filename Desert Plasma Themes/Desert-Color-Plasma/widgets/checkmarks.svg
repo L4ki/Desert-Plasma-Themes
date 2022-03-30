@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 44 26"
+   sodipodi:docname="checkmarks.svg"
+   width="44"
+   height="26"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs41" />
+  <sodipodi:namedview
+     id="namedview39"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     height="32px"
+     inkscape:current-layer="svg2"
+     inkscape:zoom="13.876971"
+     inkscape:cx="18.808139"
+     inkscape:cy="12.286543"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid919"
+       originx="0"
+       originy="4.4408921e-16" />
+  </sodipodi:namedview>
+  <style
+     id="current-color-scheme"
+     type="text/css">
+.ColorScheme-Text { 
+    color:#d6dbf1;
+}
+.ColorScheme-Background { color:#d6dbf1; }
+.ColorScheme-Highlight { color:#4e7098; }
+</style>
+  <g
+     id="radiobutton"
+     transform="translate(5,5)">
+    <circle
+       style="fill:currentColor;fill-opacity:0.4;fill-rule:evenodd;stroke:#4e7098;stroke-opacity:1"
+       id="path978"
+       cx="26"
+       cy="8"
+       r="7.5"
+       class="ColorScheme-ButtonFocus  ColorScheme-Highlight" />
+    <circle
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd"
+       id="path1899"
+       cx="26"
+       cy="8"
+       r="3"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="checkbox">
+    <rect
+       id="rect6969-0"
+       style="fill:currentColor;fill-opacity:0.4"
+       width="6"
+       height="6"
+       x="10.000262"
+       y="9.9999962"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="M 10.000261,5 C 7.0002614,5 5.0002614,7 5.0002614,10 v 0 0 0 h 4.9999996 z"
+       id="path161-7"
+       sodipodi:nodetypes="ccccccc"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path1039-0-2-1"
+       style="fill:currentColor;fill-opacity:1;stroke-width:0.5;stop-color:#eff0f1"
+       d="M 10,5 C 7,5 5,7 5,10 l 0.9997276,-1.11e-5 C 5.9997546,7.3333278 7.7,6 9.999989,6 Z"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="m 10.000261,5 h 6 v 5 h -6 z"
+       id="path111-7"
+       class="ColorScheme-Highlight" />
+    <rect
+       transform="matrix(0,-1,-1,0,0,0)"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.559044"
+       id="rect985-75-9-2"
+       width="1"
+       height="6.000319"
+       x="-5.999999"
+       y="-16.000261"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="m 16.000261,5 c 3,0 5,2 5,5 v 0 0 h 2e-6 -5 z"
+       id="path166-1"
+       sodipodi:nodetypes="ccccccc"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path1039-0-3-1-0"
+       style="fill:currentColor;fill-opacity:1;stroke-width:0.5;stop-color:#eff0f1"
+       d="M 21,10 C 21,7 19,5 16,5 l 1.1e-5,1 C 18.3,6 19.99975,7.333327 19.99975,9.999989 Z"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="M 5.0002614,9.9999995 H 10.000261 V 15.999999 H 5.0002614 Z"
+       id="path116-5"
+       class="ColorScheme-Highlight" />
+    <rect
+       transform="scale(1,-1)"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.559044"
+       id="rect985-75-3-2-9"
+       width="1"
+       height="6.000319"
+       x="5"
+       y="-16.000319"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="m 16.000261,10.000001 5,2e-6 V 16 l -5,-2e-6 z"
+       id="path122-0"
+       class="ColorScheme-Highlight" />
+    <rect
+       transform="scale(1,-1)"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.559044"
+       id="rect985-75-3-2-7-9"
+       width="1"
+       height="6.000319"
+       x="20"
+       y="-16.000319"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="M 10.000261,21 C 7.0002614,21 5.0002614,19 5.0002614,16 v 0 0 0 h 4.9999996 z"
+       id="path171-7"
+       sodipodi:nodetypes="ccccccc"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path1039-0-3-7-0-1"
+       style="fill:currentColor;fill-opacity:1;stroke-width:0.5;stop-color:#eff0f1"
+       d="m 5,15.999989 c 0,3 2,5 5,5 L 9.999989,20 C 7.7,20 5.9999996,18.666662 5.9999996,16 Z"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="m 16.000261,21 c 3,0 5,-2 5,-5 h -4.999998 z"
+       id="path176-9"
+       sodipodi:nodetypes="cccc"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path1039-0-3-6-9-7"
+       style="fill:currentColor;fill-opacity:1;stroke-width:0.5;stop-color:#eff0f1"
+       d="m 16,21 c 3,0 5.000011,-2 5.000011,-5 l -1.000261,1.1e-5 C 19.999723,18.666672 18.3,20 16.000011,20 Z"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-Highlight" />
+    <path
+       style="fill:currentColor;fill-opacity:0.4"
+       d="m 10.000261,21 h 6 v -5 h -6 z"
+       id="path127-7"
+       class="ColorScheme-Highlight" />
+    <rect
+       transform="matrix(0,-1,-1,0,0,0)"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.559281"
+       id="rect985-75-5-3-3"
+       width="1.0009"
+       height="6"
+       x="-21.0009"
+       y="-16.000261"
+       class="ColorScheme-Highlight" />
+    <path
+       style="text-indent:0;text-transform:none;direction:ltr;baseline-shift:baseline;fill:currentColor;fill-opacity:1;stroke-width:0.173042;enable-background:accumulate"
+       d="m 18.230233,8.5004173 a 0.83272341,0.8991453 0 0 0 -0.572424,0.269717 L 11.511875,15.406298 8.4311089,12.832734 a 0.83274537,0.89916897 0 1 0 -1.019985,1.42164 l 3.6636171,3.056788 a 0.83272341,0.8991453 0 0 0 1.098034,-0.07305 l 6.661122,-7.192456 A 0.83272341,0.8991453 0 0 0 18.230233,8.5004033 Z"
+       fill-opacity="1"
+       stroke="none"
+       marker="none"
+       visibility="visible"
+       display="inline"
+       overflow="visible"
+       id="path2-7"
+       class="ColorScheme-Text" />
+  </g>
+</svg>
