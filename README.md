@@ -42,3 +42,8 @@ Icons
 -----
 
 Added new icons: devices (24)
+
+Changelog: 31.03.2022.
+----------------------
+
+Update Kvantum Theme
