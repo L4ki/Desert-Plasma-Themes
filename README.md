@@ -47,3 +47,16 @@ Changelog: 31.03.2022.
 ----------------------
 
 Update Kvantum Theme
+
+Changelog: 05.04.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: configuration-icons.svg
+
+Icons
+-----
+
+Added new icons: devices (64)
