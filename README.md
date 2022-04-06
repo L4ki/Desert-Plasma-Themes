@@ -51,8 +51,8 @@ Update Kvantum Theme
 Changelog: 05.04.2022.
 ----------------------
 
-Plasma Theme
-------------
+Plasma Theme "Desert-Plasma"
+-----------------------------
 
 Update widget: configuration-icons.svg
 
@@ -60,3 +60,11 @@ Icons
 -----
 
 Added new icons: devices (64)
+
+Changelog: 06.04.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+-----------------------------
+
+Update widget: tabbar.svg
