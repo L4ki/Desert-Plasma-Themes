@@ -68,3 +68,16 @@ Plasma Theme "Desert-Color-Plasma"
 -----------------------------
 
 Update widget: tabbar.svg
+
+Changelog: 12.04.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+-----------------------------
+
+Update widget: slider.svg, configuration-icons.svg
+
+Icons
+-----
+
+Added new icons: mimetypes (16)
