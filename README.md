@@ -90,4 +90,4 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widgets: lineedit.svg, slider.svg
 
-Update icon: configure.Scg
+Update icon: configure.svg
