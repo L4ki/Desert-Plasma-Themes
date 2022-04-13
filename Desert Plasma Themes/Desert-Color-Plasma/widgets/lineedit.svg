@@ -2497,17 +2497,17 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1015"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
      fit-margin-top="0"
-     showgrid="true"
+     showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="13.3125"
-     inkscape:cx="0.25"
+     inkscape:cy="9.875"
+     inkscape:cx="16.8125"
      inkscape:zoom="8"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -2516,7 +2516,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="false">
+     inkscape:lockguides="true">
     <inkscape:grid
        originy="0.99999604"
        originx="-79.000006"
@@ -3031,32 +3031,32 @@
     </g>
     <rect
        y="568.64734"
-       x="402.6431"
+       x="403.04285"
        height="3"
-       width="0.5"
+       width="0.1"
        id="hover-hint-right-margin"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316229" />
+       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.141422" />
     <rect
-       y="558.64734"
+       y="558.64795"
        x="390.14313"
-       height="0.5"
+       height="0.1"
        width="3"
        id="hover-hint-top-margin"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316229" />
+       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.141422" />
     <rect
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316229"
+       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.141422"
        id="hover-hint-left-margin"
-       width="0.5"
+       width="0.1"
        height="2.9999995"
        x="380.1431"
        y="568.64734" />
     <rect
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316229"
+       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.141422"
        id="hover-hint-bottom-margin"
        width="3"
-       height="0.5"
+       height="0.1"
        x="390.14313"
-       y="581.14734" />
+       y="581.54797" />
     <g
        id="base-topright">
       <path
@@ -3104,7 +3104,7 @@
     <g
        id="base-hint-bottom-margin">
       <rect
-         style="fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09545"
+         style="fill:#3b5a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09545;opacity:0.01"
          id="base-hint-bottom-margin-7"
          width="3"
          height="6"
