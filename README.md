@@ -81,3 +81,13 @@ Icons
 -----
 
 Added new icons: mimetypes (16)
+
+Changelog: 13.04.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widgets: lineedit.svg, slider.svg
+
+Update icon: configure.Scg
