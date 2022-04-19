@@ -91,3 +91,16 @@ Plasma Theme "Desert-Color-Plasma"
 Update widgets: lineedit.svg, slider.svg
 
 Update icon: configure.svg
+
+Changelog: 19.04.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+-----------------------------
+
+Update widget: button.svg
+
+Icons
+-----
+
+Added new icons: mimetypes (22)
