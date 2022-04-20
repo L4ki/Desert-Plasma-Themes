@@ -104,3 +104,12 @@ Icons
 -----
 
 Added new icons: mimetypes (22)
+
+
+Changelog: 20.04.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: plot-background.svg
