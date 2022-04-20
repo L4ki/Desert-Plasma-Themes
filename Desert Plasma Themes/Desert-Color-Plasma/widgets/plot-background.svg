@@ -6,12 +6,13 @@
    height="600"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    version="1.0"
    sodipodi:docname="plot-background.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -19,6 +20,18 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient880">
+      <stop
+         style="stop-color:#1d212f;stop-opacity:1;"
+         offset="0"
+         id="stop876" />
+      <stop
+         style="stop-color:#1d212f;stop-opacity:0;"
+         offset="1"
+         id="stop878" />
+    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 300 : 1"
@@ -37,6 +50,15 @@
          offset="1"
          id="stop3138" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient880"
+       id="linearGradient882"
+       x1="-800"
+       y1="300"
+       x2="0"
+       y2="300"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,14 +71,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="460"
+     inkscape:cx="461.42857"
      inkscape:cy="262.85714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="800px"
      height="600px"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      showgrid="false"
@@ -80,7 +102,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="opacity:0.2;fill:#1d212f;fill-opacity:1"
+       style="opacity:0.2;fill:url(#linearGradient882);fill-opacity:1"
        d="M -800,0 H 0 v 600 h -800 z"
        id="rect2160"
        transform="scale(-1,1)" />
