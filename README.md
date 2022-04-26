@@ -115,6 +115,9 @@ Plasma Theme "Desert-Color-Plasma"
 Update widget: plot-background.svg
 
 
+Changelog: 26.04.2022.
+----------------------
+
 Plasma Theme "Desert-Plasma"
 -----------------------------
 
