@@ -113,3 +113,14 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update widget: plot-background.svg
+
+
+Plasma Theme "Desert-Plasma"
+-----------------------------
+
+Update icon: system.svg
+
+Icons
+-----
+
+Added new icons: mimetypes (32)
