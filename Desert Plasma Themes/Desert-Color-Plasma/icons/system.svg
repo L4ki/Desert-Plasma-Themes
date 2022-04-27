@@ -89,12 +89,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1013"
      id="namedview78"
      showgrid="false"
      inkscape:zoom="1.9999999"
-     inkscape:cx="111"
-     inkscape:cy="107.25"
+     inkscape:cx="119.00001"
+     inkscape:cy="150.25001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -659,20 +659,20 @@
        overflow="visible"
        id="path938" />
     <rect
-       x="24.721432"
-       y="12.658059"
-       width="3.2785513"
-       height="0.91139299"
+       x="25"
+       y="12"
+       width="3"
+       height="1"
        id="rect12"
-       style="stroke-width:1.54016;fill-opacity:1;fill:currentColor;"
+       style="fill:currentColor;fill-opacity:1;stroke-width:1.54323"
        class="ColorScheme-Text" />
     <rect
-       x="24.721432"
-       y="15.088"
-       width="3.2785513"
-       height="0.91139299"
+       x="25"
+       y="14"
+       width="3"
+       height="1"
        id="rect14"
-       style="stroke-width:1.54016;fill-opacity:1;fill:currentColor;"
+       style="fill:currentColor;fill-opacity:1;stroke-width:1.54323"
        class="ColorScheme-Text" />
     <polygon
        points="-780.1,577.4 -780.1,581 -782.7,578.4 -783.6,579.3 -781,581.9 -784.6,581.9 -784.6,583.1 -781,583.1 -783.6,585.7 -782.7,586.5 -780.1,584 -780.1,587.6 -778.9,587.6 -778.9,584 -776.9,586 -776.9,584.3 -778,583.1 -776.9,583.1 -776.9,581.9 -778,581.9 -776.9,580.7 -776.9,579 -778.9,581 -778.9,577.4 "
@@ -687,12 +687,12 @@
        sodipodi:nodetypes="cssscsssccccccccccc"
        class="ColorScheme-Text" />
     <rect
-       x="24.721432"
-       y="10.380027"
-       width="3.2785513"
-       height="0.91139299"
+       x="25"
+       y="10"
+       width="3"
+       height="1"
        id="rect10"
-       style="stroke-width:1.54016;fill-opacity:1;fill:currentColor"
+       style="fill:currentColor;fill-opacity:1;stroke-width:1.54323"
        class="ColorScheme-Text " />
   </g>
   <g
