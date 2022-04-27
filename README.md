@@ -127,3 +127,13 @@ Icons
 -----
 
 Added new icons: mimetypes (32)
+
+
+Changelog: 27.04.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icon: system.svg
+
