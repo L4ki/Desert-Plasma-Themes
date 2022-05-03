@@ -137,3 +137,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update icon: system.svg
 
+Changelog: 03.05.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: scrollwidget.svg
+
+Icons
+-----
+
+Added new icons: mimetypes (64)
+
