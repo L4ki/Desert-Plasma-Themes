@@ -150,3 +150,11 @@ Icons
 
 Added new icons: mimetypes (64)
 
+Changelog: 04.05.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icon: network.svg
+
