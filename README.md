@@ -172,3 +172,11 @@ Icons
 
 Update icons: apps (22, 24)
 
+Changelog: 11.05.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icon: audio.svg
+
