@@ -158,3 +158,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update icon: network.svg
 
+
+Changelog: 10.05.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icon: applications.svg
+
+Icons
+-----
+
+Update icons: apps (22, 24)
+
