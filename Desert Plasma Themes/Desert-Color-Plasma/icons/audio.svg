@@ -13,7 +13,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#d6dbf1; }
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text { color:#d6dbf1; }
 </style>
   <g
      id="22-22-audio-volume-low"
@@ -85,19 +87,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1009"
      id="namedview63"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="57"
-     inkscape:cy="2.375"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="45.961941"
+     inkscape:cy="24.571961"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg50"
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
