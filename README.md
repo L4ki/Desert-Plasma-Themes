@@ -180,3 +180,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update icon: audio.svg
 
+Changelog: 17.05.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icon: klipper.svg
+
+Icons
+-----
+
+Update icons: preferences 22
+
