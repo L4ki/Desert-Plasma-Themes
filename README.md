@@ -193,3 +193,11 @@ Icons
 
 Update icons: preferences 22
 
+Changelog: 18.05.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: tooltip.svg (solid)
+
