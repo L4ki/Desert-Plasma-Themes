@@ -15,7 +15,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <style
-     id="style1113">
+     id="current-color-scheme"
+     type="text/css">
 .ColorScheme-Background { 
     stop-color:#1d212f;
     color:#1d212f;
