@@ -201,3 +201,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widget: tooltip.svg (solid)
 
+
+Changelog: 24.05.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: action-overlays.svg
+
+Icons
+-----
+
+Added new icons: status 22
+
