@@ -215,3 +215,11 @@ Icons
 
 Added new icons: status 22
 
+Changelog: 27.05.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: menubaritem.svg
+
