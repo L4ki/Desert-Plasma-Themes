@@ -223,3 +223,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added widget: menubaritem.svg
 
+
+Changelog: 01.06.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icon: disk.svg
+
+Icons
+-----
+
+Added new icons: status (symbolic)
+
