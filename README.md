@@ -237,3 +237,11 @@ Icons
 
 Added new icons: status (symbolic)
 
+Changelog: 03.06.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icons: preferences.svg, video.svg
+
