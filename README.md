@@ -245,3 +245,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update icons: preferences.svg, video.svg
 
+Changelog: 08.06.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icons: elisa.svg, cantata.svg, kate.svg, disk.svg, video.svg, preferences.svg, klipper.svg, kdeconnect.svg, input.svg, keyboard.svg
+
+Icons
+-----
+
+Added new icons: actions 16
+
