@@ -258,3 +258,13 @@ Icons
 
 Added new icons: actions 16
 
+Changelog: 10.06.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icons: printer, kate, device, kdeconnect, choqok, video, kalarm
+
+Update widget: tasks
+
