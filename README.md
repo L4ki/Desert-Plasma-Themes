@@ -268,3 +268,23 @@ Update icons: printer, kate, device, kdeconnect, choqok, video, kalarm
 
 Update widget: tasks
 
+Changelog: 15.06.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icons: audio, input, kmail, mail
+
+Update widget: panel-background.svg
+
+Icons
+-----
+
+Update icons: actions 22
+
+Aurorate Theme "Desert-Blur-Aurorae"
+------------------------------------
+
+Update decoration.svg
+
