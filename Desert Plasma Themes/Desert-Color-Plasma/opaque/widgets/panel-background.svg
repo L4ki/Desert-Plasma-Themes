@@ -689,8 +689,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.8574987"
-     inkscape:cx="76.344809"
-     inkscape:cy="25.275446"
+     inkscape:cx="65.197689"
+     inkscape:cy="25.145828"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -698,7 +698,7 @@
      borderlayer="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="993"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1081,18 +1081,17 @@
          class="ColorScheme-Text" />
     </g>
     <g
-       id="bottom-left"
-       transform="matrix(1,0,0,0.99701855,-18.1,-1.0674849)">
+       id="bottomleft">
       <path
          class="ColorScheme-Background"
          id="path2296"
-         style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.848654"
-         d="M 57.894996,948.36218 H 47.000004 c 0,6.55655 4.358019,10.92751 10.894992,10.92758 z"
+         style="fill:currentColor;fill-opacity:1;stroke-width:0.847388"
+         d="M 39.794996,944.4672 H 28.900004 c 0,6.537 4.358019,10.89493 10.894992,10.895 z"
          sodipodi:nodetypes="cssc" />
       <path
          id="path2298"
-         style="opacity:1;fill:currentColor;fill-opacity:0.027013;stroke-width:1.0895"
-         d="m 46.999997,948.36218 c 0,6.537 4.358,10.895 10.895,10.895 l -2.4e-5,-1.21053 c -5.810655,-6e-5 -9.684445,-3.87379 -9.684445,-9.68444 z"
+         style="fill:currentColor;fill-opacity:0.027013;stroke-width:1.08787"
+         d="m 28.899997,944.4672 c 0,6.51751 4.358,10.86252 10.895,10.86252 l -2.4e-5,-1.20692 c -5.810655,-6e-5 -9.684445,-3.86224 -9.684445,-9.65557 z"
          sodipodi:nodetypes="ccccc"
          class="ColorScheme-Text" />
     </g>
