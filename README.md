@@ -283,7 +283,7 @@ Icons
 
 Update icons: actions 22
 
-Aurorate Theme "Desert-Blur-Aurorae"
+Aurorae Theme "Desert-Blur-Aurorae"
 ------------------------------------
 
 Update decoration.svg (Customized for Plasma 5.25)
