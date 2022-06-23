@@ -296,5 +296,18 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widget: panel-background.svg (translucent, solid, opaque)
 
+Changelog: 23.06.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icons: choqok_offline, choqok, notification, notifications, phone
+
+Icons
+-----
+
+Update icons: actions 24
+
 
 
