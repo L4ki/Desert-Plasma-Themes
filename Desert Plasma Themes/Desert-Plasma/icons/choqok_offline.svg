@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="choqok_offline.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,13 +25,14 @@
        id="rect2" />
     <path
        fill="none"
-       stroke-width="0.69438"
+       stroke-width="0.983637"
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-miterlimit="10"
-       d="m 19.074754,4.457625 v 9.293014 c 0,0.613282 -0.497166,1.110422 -1.110441,1.110422 h -7.70667 L 6.139041,18.652854 V 14.861061 H 4.057629 c -0.613271,0 -1.110439,-0.49714 -1.110439,-1.110422 V 4.457625 c 0,-0.613276 0.497168,-1.110435 1.110439,-1.110435 h 13.906684 c 0.613275,0 1.110441,0.497159 1.110441,1.110435 z"
+       d="m 19.508182,4.5812687 v 9.1173973 c 0,0.60169 -0.524568,0.801334 -1.171641,0.801334 H 10.205155 L 5.8595733,18.508238 V 14.5 H 3.6634543 C 3.0163856,14.5 2.4918185,14.300356 2.4918185,13.698666 V 4.5812687 c 0,-0.6016866 0.5245671,-1.0894502 1.1716358,-1.0894502 H 18.336541 c 0.647073,0 1.171641,0.4877636 1.171641,1.0894502 z"
        id="path2-67"
-       style="stroke:#bf616a;stroke-opacity:1" />
+       style="stroke:#bf616a;stroke-opacity:1"
+       sodipodi:nodetypes="ssscccssssss" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#bf616a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.296292"
@@ -93,12 +94,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="9.8125"
-     inkscape:cx="30.165605"
-     inkscape:cy="27.464968"
+     inkscape:cx="38.063694"
+     inkscape:cy="16.56051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +107,8 @@
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid941"
@@ -124,13 +126,14 @@
        id="rect7" />
     <path
        fill="none"
-       stroke-width="1.04158"
+       stroke-width="1.00378"
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-miterlimit="10"
-       d="m 28.062129,6.186443 v 13.939515 c 0,0.919917 -0.74574,1.665648 -1.665654,1.665648 H 14.836457 l -6.177896,5.687673 v -5.687673 h -3.12212 c -0.919911,0 -1.665651,-0.745731 -1.665651,-1.665648 V 6.186443 c 0,-0.919915 0.74574,-1.665653 1.665651,-1.665653 h 20.860034 c 0.919914,0 1.665654,0.745738 1.665654,1.665653 z"
+       d="M 29.498109,6.1702816 V 20.132742 c 0,0.921431 -0.832202,1.389653 -1.858782,1.389653 H 14.738981 L 7.8447798,27.49817 V 21.522395 H 4.3606633 c -1.0265707,0 -1.8587764,-0.468222 -1.8587764,-1.389653 V 6.1702816 c 0,-0.921429 0.8322057,-1.6683947 1.8587764,-1.6683947 H 27.639327 c 1.02658,0 1.858782,0.7469657 1.858782,1.6683947 z"
        id="path2-3"
-       style="stroke:#bf616a;stroke-opacity:1" />
+       style="stroke:#bf616a;stroke-opacity:1"
+       sodipodi:nodetypes="ssscccssssss" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#bf616a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.444444"
