@@ -309,5 +309,13 @@ Icons
 
 Update icons: actions 24
 
+Changelog: 25.06.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icon: disk.svg
+
 
 
