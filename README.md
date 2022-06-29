@@ -317,5 +317,18 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update icon: disk.svg
 
+Changelog: 30.06.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icon: printer.svg
+
+Icons
+-----
+
+Added new icons: actions 22
+
 
 
