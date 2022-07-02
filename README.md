@@ -330,5 +330,14 @@ Icons
 
 Added new icons: actions 22
 
+Changelog: 02.07.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icons: plasmavault_error, plasmavault,phone
+
+Update widget: viewitem.svg
 
 
