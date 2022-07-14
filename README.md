@@ -340,4 +340,12 @@ Update icons: plasmavault_error, plasmavault,phone
 
 Update widget: viewitem.svg
 
+Changelog: 14.07.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icon: zoom.svg
+
 
