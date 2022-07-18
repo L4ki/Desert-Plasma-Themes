@@ -349,3 +349,17 @@ Plasma Theme "Desert-Color-Plasma"
 Update icon: zoom.svg
 
 
+Changelog: 18.07.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icon: zoom.svg
+
+Icons
+-----
+
+Added new icons: actions 22
+
+
