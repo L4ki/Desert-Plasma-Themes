@@ -370,4 +370,9 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widget: action-overlays.svg
 
+Aurorae Themes
+---------------
+
+Update: decoration.svg
+
 
