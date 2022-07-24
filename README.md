@@ -362,4 +362,12 @@ Icons
 
 Added new icons: actions 22
 
+Changelog: 24.07.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: action-overlays.svg
+
 
