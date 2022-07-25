@@ -375,4 +375,17 @@ Aurorae Themes
 
 Update: decoration.svg
 
+Changelog: 25.07.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: line.svg
+
+Icons
+-----
+
+Added new icons: places
+
 
