@@ -4,7 +4,7 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -18,6 +18,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Highlight { color:#306994; }
+.ColorScheme-Background { color:#192432; }
+</style>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,16 +33,16 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="64.700271"
-     inkscape:cy="71.948116"
+     inkscape:zoom="45.254834"
+     inkscape:cx="51.729281"
+     inkscape:cy="75.660426"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -46,7 +51,8 @@
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="0"
-     showguides="false">
+     showguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -125,7 +131,8 @@
          height="1"
          width="42"
          id="rect4209"
-         style="opacity:1;fill:#131720;fill-opacity:0.34999999;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="stroke-opacity:1;stroke-dashoffset:0;stroke-dasharray:none;stroke-miterlimit:4;stroke-linejoin:round;stroke-linecap:round;stroke-width:1;stroke:none;fill-rule:nonzero;fill-opacity:0.2;fill:#192432;opacity:1"
+         class="ColorScheme-Background" />
       <rect
          style="opacity:0.00899999;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2706"
@@ -159,8 +166,9 @@
          height="0.5"
          width="42"
          id="rect2721"
-         style="opacity:0.251;fill:#306994;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.707107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="rotate(-90)" />
+         style="stroke-opacity:1;stroke-dashoffset:0;stroke-dasharray:none;stroke-miterlimit:4;stroke-linejoin:round;stroke-linecap:round;stroke-width:0.707107;stroke:none;fill-rule:nonzero;fill-opacity:1;fill:currentColor;opacity:0.251;"
+         transform="rotate(-90)"
+         class="ColorScheme-Highlight" />
     </g>
   </g>
 </svg>
