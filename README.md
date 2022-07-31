@@ -388,4 +388,12 @@ Icons
 
 Added new icons: places
 
+Changelog: 31.07.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: line.svg
+
 
