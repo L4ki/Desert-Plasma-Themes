@@ -397,3 +397,17 @@ Plasma Theme "Desert-Color-Plasma"
 Update widget: line.svg
 
 
+Changelog: 01.08.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: action-overlays.svg
+
+Icons
+-----
+
+Added new icons: actions 16
+
+
