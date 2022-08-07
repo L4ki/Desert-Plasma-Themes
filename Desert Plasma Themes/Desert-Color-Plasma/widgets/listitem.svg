@@ -5,7 +5,7 @@
    width="113.18325"
    id="svg2"
    sodipodi:docname="listitem.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1002"
      id="namedview58"
      showgrid="false"
      inkscape:zoom="3.1466666"
-     inkscape:cx="89.618646"
-     inkscape:cy="58.951272"
+     inkscape:cx="55.932205"
+     inkscape:cy="71.504239"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,9 +37,10 @@
      inkscape:lockguides="true"
      inkscape:document-rotation="0"
      borderlayer="true"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
-     showguides="false" />
+     showguides="false"
+     inkscape:deskcolor="#cccccc" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -85,8 +86,7 @@
     </linearGradient>
     <style
        type="text/css"
-       id="current-color-scheme">      
-      }</style>
+       id="current-color-scheme"></style>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1957"
