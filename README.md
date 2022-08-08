@@ -418,3 +418,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widget: listitem.svg
 
+Changelog: 08.08.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icon: video-card.svg
+
+Icons
+-----
+
+Added new icons: actions symbolic
+
