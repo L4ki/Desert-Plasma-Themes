@@ -431,3 +431,10 @@ Icons
 
 Added new icons: actions symbolic
 
+Changelog: 14.08.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icons: akonadi.svg, kgpg.svg
