@@ -438,3 +438,16 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update icons: akonadi.svg, kgpg.svg
+
+Changelog: 15.08.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: listitem.svg
+
+Icons
+-----
+
+Added new icons: actions 16
