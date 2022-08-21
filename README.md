@@ -13,6 +13,9 @@ Desert-Color-Plasma
 
 Follows Color Scheme
 
+Download: https://store.kde.org/p/1749093
+
+
 [![1.png](https://i.postimg.cc/mD5kR22D/1.png)](https://postimg.cc/BL24B3F9)
 
 [![3.jpg](https://i.postimg.cc/8cf5CQjb/3.jpg)](https://postimg.cc/7JDDBR1C)
