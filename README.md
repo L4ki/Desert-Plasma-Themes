@@ -462,3 +462,21 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update widget: listitem.svg
+
+Changelog: 15.08.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: busywidget.svg
+
+Icons
+-----
+
+Added new icons: mimetypes
+
+Kvantum Theme
+--------------
+
+Update: Desert-Kvantum.svg
