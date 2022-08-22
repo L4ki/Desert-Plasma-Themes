@@ -463,7 +463,7 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widget: listitem.svg
 
-Changelog: 15.08.2022.
+Changelog: 22.08.2022.
 ----------------------
 
 Plasma Theme "Desert-Plasma"
