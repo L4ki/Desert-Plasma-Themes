@@ -480,3 +480,11 @@ Kvantum Theme
 --------------
 
 Update: Desert-Kvantum.svg
+
+Changelog: 28.08.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icon: kpackagekit.svg
