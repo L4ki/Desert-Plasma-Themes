@@ -488,3 +488,16 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update icon: kpackagekit.svg
+
+Changelog: 29.08.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: arrows.svg
+
+Icons
+-----
+
+Added new icons: actions 24
