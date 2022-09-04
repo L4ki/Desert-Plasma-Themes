@@ -501,3 +501,12 @@ Icons
 -----
 
 Added new icons: actions 24
+
+
+Changelog: 04.09.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: clock.svg
