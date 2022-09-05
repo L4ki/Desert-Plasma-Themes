@@ -510,3 +510,17 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update widget: clock.svg
+
+Changelog: 05.09.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icons: dropbox.svg, emblem.svg
+
+Icons
+-----
+
+Added new icons: actions 32
+
