@@ -524,3 +524,11 @@ Icons
 
 Added new icons: actions 32
 
+Changelog: 11.09.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: arrows.svg
+
