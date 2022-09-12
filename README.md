@@ -532,3 +532,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widget: arrows.svg
 
+Changelog: 12.09.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: viewitem.svg
+
+Icons
+-----
+
+Update icons: places
+
