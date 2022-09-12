@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Desert-Global Look And Feel
+Name=Desert-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Desert-Global
+X-KDE-PluginInfo-Version=3.4
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1733281,kns://colorschemes.knsrc/api.kde-look.org/1733276,kns://plasma-themes.knsrc/api.kde-look.org/1733294,kns://icons.knsrc/api.kde-look.org/1733286,kns://aurorae.knsrc/api.kde-look.org/1733273,kns://aurorae.knsrc/api.kde-look.org/1733270,kns://wallpaper.knsrc/api.kde-look.org/1733258,kns://wallpaper.knsrc/api.kde-look.org/1361442,kns://sddmtheme.knsrc/api.kde-look.org/1733267
