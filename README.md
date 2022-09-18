@@ -545,3 +545,11 @@ Icons
 
 Update icons: places
 
+Changelog: 18.09.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: background.svg
+
