@@ -553,3 +553,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update widget: background.svg
 
+Changelog: 20.09.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: background.svg
+
+Icons
+-----
+
+Added icons: preferences
+
