@@ -566,3 +566,17 @@ Icons
 
 Added icons: preferences
 
+
+Changelog: 25.09.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added new icons: kdf.svg, emblem.svg
+
+GTK Theme
+----------
+
+Update: assets, gtk.css
+
