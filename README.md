@@ -580,3 +580,15 @@ GTK Theme
 
 Update: assets, gtk.css
 
+Changelog: 27.09.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+Icons
+-----
+
+Added new icons: apps 48
