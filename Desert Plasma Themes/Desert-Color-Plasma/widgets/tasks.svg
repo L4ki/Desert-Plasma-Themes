@@ -5,7 +5,7 @@
    version="1"
    id="svg1013"
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -18,24 +18,25 @@
 </style>
   <sodipodi:namedview
      id="namedview1015"
-     pagecolor="#737373"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.2721636"
-     inkscape:cx="179.61526"
-     inkscape:cy="210.66473"
+     inkscape:zoom="1.0544951"
+     inkscape:cx="298.247"
+     inkscape:cy="299.19533"
      inkscape:window-width="1920"
-     inkscape:window-height="965"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1013"
      inkscape:lockguides="true"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid3313"
@@ -7644,7 +7645,7 @@
   </g>
   <g
      id="group-expander-bottom"
-     transform="translate(139.22954,-414.3612)">
+     transform="translate(139,-419.36218)">
     <rect
        style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
        id="rect6646-8"
@@ -7667,7 +7668,7 @@
   </g>
   <g
      id="group-expander-right"
-     transform="translate(139.22954,-413.3612)">
+     transform="translate(139,-418.36218)">
     <rect
        style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
        id="rect6646-2"
@@ -7690,7 +7691,7 @@
   </g>
   <g
      id="group-expander-left"
-     transform="translate(139.22954,-413.3612)">
+     transform="translate(139,-418.36218)">
     <rect
        style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
        id="rect6646"
@@ -7712,7 +7713,7 @@
   </g>
   <g
      id="group-expander-top"
-     transform="translate(139.22954,-414.3612)">
+     transform="translate(139,-419.36218)">
     <rect
        style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
        id="rect6646-8-6"
