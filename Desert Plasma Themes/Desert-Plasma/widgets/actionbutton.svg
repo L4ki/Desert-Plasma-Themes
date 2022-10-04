@@ -5,12 +5,12 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="actionbutton.svg"
    version="1.0"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:version="0.32"
    id="svg2"
    height="128"
-   width="213.33333"
-   viewBox="0 0 200 120"
+   width="214"
+   viewBox="0 0 214 128"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,15 +29,15 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="124"
-     inkscape:cy="80.499998"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="114.90485"
+     inkscape:cy="82.024383"
      inkscape:document-units="px"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="false"
@@ -50,23 +50,16 @@
      inkscape:bbox-nodes="true"
      showguides="false"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
-       id="GridFromPre046Settings"
        type="xygrid"
+       id="grid503"
        originx="0"
        originy="0"
-       spacingx="1"
-       spacingy="1"
-       color="#0000ff"
-       empcolor="#0000ff"
-       opacity="0.2"
-       empopacity="0.4"
-       empspacing="2"
-       visible="true"
-       enabled="true" />
+       empspacing="5" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -179,10 +172,10 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective65"
-       inkscape:persp3d-origin="64.000001 : 50.666667 : 1"
-       inkscape:vp_z="128 : 72 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 72 : 1"
+       inkscape:persp3d-origin="68.266667 : 54.044445 : 1"
+       inkscape:vp_z="136.53333 : 76.8 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 76.8 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient4254">
