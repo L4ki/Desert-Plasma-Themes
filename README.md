@@ -600,3 +600,16 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update widget: tasks.svg
+
+Changelog: 04.10.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: actionbutton.svg
+
+Icons
+-----
+
+Update icons: apps 32
