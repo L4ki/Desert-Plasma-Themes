@@ -613,3 +613,12 @@ Icons
 -----
 
 Update icons: apps 32
+
+
+Changelog: 09.10.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added new icons: thunderbird.svg, yakuake.svg
