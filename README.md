@@ -622,3 +622,16 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Added new icons: thunderbird.svg, yakuake.svg
+
+Changelog: 11.10.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: containment-controls.svg
+
+Icons
+-----
+
+Added new icons: apps
