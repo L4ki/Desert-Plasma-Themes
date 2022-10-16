@@ -635,3 +635,11 @@ Icons
 -----
 
 Added new icons: apps
+
+Changelog: 16.10.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: scrollbar.svg
