@@ -643,3 +643,17 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update widget: scrollbar.svg
+
+
+Changelog: 18.10.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update widget: scrollbar.svg
+
+Icons
+-----
+
+Added new icons: apps 48
