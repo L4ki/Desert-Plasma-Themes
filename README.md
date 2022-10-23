@@ -657,3 +657,11 @@ Icons
 -----
 
 Added new icons: apps 48
+
+Changelog: 23.10.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: tasks.svg
