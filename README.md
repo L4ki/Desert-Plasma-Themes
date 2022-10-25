@@ -665,3 +665,19 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Update widget: tasks.svg
+
+Changelog: 25.10.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added new icon: juk svg
+
+Update icon: ime.svg
+
+
+Icons
+-----
+
+Added new icons: apps
