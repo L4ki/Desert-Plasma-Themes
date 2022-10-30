@@ -681,3 +681,11 @@ Icons
 -----
 
 Added new icons: apps
+
+Changelog: 30.10.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: dropbox.svg
