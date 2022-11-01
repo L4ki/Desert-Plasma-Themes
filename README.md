@@ -689,3 +689,16 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Added icon: dropbox.svg
+
+Changelog: 01.11.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added new icons: tools.svg, face.svg
+
+Icons
+-----
+
+Added new icons: apps
