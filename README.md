@@ -702,3 +702,12 @@ Icons
 -----
 
 Added new icons: apps
+
+Changelog: 06.11.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: tools.svg
+
