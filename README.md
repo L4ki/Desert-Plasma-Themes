@@ -711,3 +711,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icon: tools.svg
 
+Changelog: 08.11.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: qbittorrent.svg
+
+Icons
+-----
+
+Added new icons: apps 32.48
+
