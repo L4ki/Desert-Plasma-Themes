@@ -732,3 +732,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icon: nulloy.svg
 
+Changelog: 15.11.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: knotes.svg, kdf.svg
+
+Icons
+-----
+
+Added new icons: apps 32,48
+
