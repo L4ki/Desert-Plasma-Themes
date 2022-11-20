@@ -745,3 +745,12 @@ Icons
 
 Added new icons: apps 32,48
 
+
+Changelog: 20.11.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icons: knotes.svg, sirikali.svg
+
