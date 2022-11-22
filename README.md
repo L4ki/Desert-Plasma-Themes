@@ -754,3 +754,23 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icons: knotes.svg, sirikali.svg
 
+Changelog: 22.11.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: sirikali.svg
+
+Update icon: kaffeine.svg
+
+Icons
+-----
+
+Added new icons: apps 32,48
+
+GTK Theme
+---------
+
+Update:  checkbox-checked-hover.png
+
