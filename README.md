@@ -767,7 +767,7 @@ Update icon: kaffeine.svg
 Icons
 -----
 
-Added new icons: apps 32,48
+Added new icons: apps 32, 48
 
 GTK Theme
 ---------
