@@ -774,3 +774,11 @@ GTK Theme
 
 Update:  checkbox-checked-hover.png
 
+Changelog: 27.11.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icons: krusader_user, krusader_root
+
