@@ -782,3 +782,22 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icons: krusader_user, krusader_root
 
+
+Changelog: 29.11.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icons: krusader_user, krusader_root
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Kvantum Theme
+-------------
+
+Update: Desert-Kvantum.svg
+
