@@ -791,6 +791,14 @@ Plasma Theme "Desert-Plasma"
 
 Added icons: krusader_user, krusader_root
 
+Changelog: 04.12.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: mellowplayer.svg
+
 Icons
 -----
 
