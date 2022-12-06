@@ -809,5 +809,18 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icon: mellowplayer.svg
 
+Changelog: 06.12.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: mellowplayer.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
