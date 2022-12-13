@@ -830,5 +830,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update icon: kalarm.svg
 
+Changelog: 13.12.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Update icon: kalarm.svg
+
+Icons
+-----
+
+Added new icons: apps 32
 
 
