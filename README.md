@@ -849,3 +849,12 @@ GTK Theme
 Update icon:  checkbox-mixed-hover.png
 
 
+Changelog: 18.12.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: jami.svg
+
+
