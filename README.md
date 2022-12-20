@@ -857,4 +857,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icon: jami.svg
 
+Changelog: 20.12.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: jami.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
 
