@@ -870,4 +870,12 @@ Icons
 
 Added new icons: apps 48
 
+Changelog: 25.12.2022.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icons: internet.svg, office.svg
+
 
