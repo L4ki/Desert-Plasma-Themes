@@ -3,6 +3,24 @@ Desert Themes For Plasma Desktop
 
 Download: https://www.pling.com/p/1733294
 
+
+Download: https://www.pling.com/p/1934172
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
+
+
 Desert-Plasma
 -------------
 
@@ -877,5 +895,19 @@ Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
 Added icons: internet.svg, office.svg
+
+
+Changelog: 27.12.2022.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icons: utilities.svg, internet.svg
+
+Icons
+-----
+
+Added new icons: apps 32
 
 
