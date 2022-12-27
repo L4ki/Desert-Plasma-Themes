@@ -3,9 +3,6 @@ Desert Themes For Plasma Desktop
 
 Download: https://www.pling.com/p/1733294
 
-
-Download: https://www.pling.com/p/1934172
-
 <html>
   <head>
     <meta charset="utf-8" />
