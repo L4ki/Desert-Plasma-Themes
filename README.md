@@ -907,4 +907,12 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 01.01.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: lutris.svg
+
 
