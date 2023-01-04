@@ -915,4 +915,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icon: lutris.svg
 
+Changelog: 04.01.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icons: plasma.svg, office.svg
+
+Icons
+-----
+
+Added new icons: apps 32. 48
+
 
