@@ -928,4 +928,12 @@ Icons
 
 Added new icons: apps 32. 48
 
+Changelog: 08.01.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: cadence.svg
+
 
