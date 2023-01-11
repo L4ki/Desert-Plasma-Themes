@@ -937,3 +937,16 @@ Plasma Theme "Desert-Color-Plasma"
 Added icon: cadence.svg
 
 
+Changelog: 11.01.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: krfb.svg
+
+Icons
+-----
+
+Added new icons: apps 32. 48
+
