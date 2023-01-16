@@ -956,5 +956,5 @@ Changelog: 16.01.2023.
 Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
-Added icon: face.svg, juk.svg
+Added icons: face.svg, juk.svg
 
