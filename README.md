@@ -958,3 +958,16 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icons: face.svg, juk.svg
 
+Changelog: 18.01.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: cadence.svg
+
+Icons
+-----
+
+Added new icons: apps 32. 48
+
