@@ -971,3 +971,17 @@ Icons
 
 Added new icons: apps 32. 48
 
+
+Changelog: 23.01.2023.
+----------------------
+
+GTK-Theme
+---------
+
+Update:  checkbox-checked.png
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: qbittorrent.svg
+
