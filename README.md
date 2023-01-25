@@ -985,3 +985,15 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icon: qbittorrent.svg
 
+Changelog: 25.01.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: lutris.svg
+
+Icons
+-----
+
+Added new icons: apps 32. 48
