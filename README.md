@@ -993,7 +993,13 @@ Plasma Theme "Desert-Plasma"
 
 Added icon: lutris.svg
 
-Icons
------
 
-Added new icons: apps 32. 48
+Changelog: 31.01.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icons: onboard.svg, mobile.svg
+
+
