@@ -1003,3 +1003,12 @@ Plasma Theme "Desert-Color-Plasma"
 Added icons: onboard.svg, mobile.svg
 
 
+Changelog: 02.02.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icons: nulloy.svg, mobile.svg
+
+
