@@ -1011,4 +1011,9 @@ Plasma Theme "Desert-Plasma"
 
 Added icons: nulloy.svg, mobile.svg
 
+Icons
+-----
+
+Added new icons: apps 32. 48
+
 
