@@ -1024,4 +1024,18 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icons: desktop.svg, process.svg
 
+Changelog: 09.02.2023.
+----------------------
+
+GTK-Theme
+---------
+
+Update: checkbox-checked-active.png
+
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icons: offline.svg, onboard.svg
+
 
