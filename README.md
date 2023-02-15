@@ -1038,4 +1038,12 @@ Plasma Theme "Desert-Plasma"
 
 Added icons: offline.svg, onboard.svg
 
+Changelog: 15.02.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update icon: video.svg
+
 
