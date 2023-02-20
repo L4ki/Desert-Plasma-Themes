@@ -1046,4 +1046,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Update icon: video.svg
 
+Changelog: 20.02.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: ring.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
