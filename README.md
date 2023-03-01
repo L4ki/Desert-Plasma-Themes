@@ -1068,3 +1068,17 @@ Plasma Theme "Desert-Color-Plasma"
 Added icon: ring.svg
 
 
+Changelog: 01.03.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+---------------------------------
+
+Added icon: corectrl.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
