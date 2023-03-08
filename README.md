@@ -1089,3 +1089,17 @@ Plasma Theme "Desert-Color-Plasma"
 
 Added icon: corectrl.svg
 
+
+Changelog: 08.03.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma" and "Desert-Plasma"
+------------------------------------------------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
