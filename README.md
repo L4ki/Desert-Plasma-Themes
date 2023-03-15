@@ -1103,3 +1103,16 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 15.03.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma" and "Desert-Plasma"
+------------------------------------------------------
+
+Added icon: antimicro.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
