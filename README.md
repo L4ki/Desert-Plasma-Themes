@@ -1116,7 +1116,7 @@ Icons
 
 Added new icons: apps 32, 48
 
-hangelog: 15.03.2023.
+hangelog: 22.03.2023.
 ----------------------
 
 Plasma Theme "Desert-Color-Plasma"
