@@ -1116,7 +1116,7 @@ Icons
 
 Added new icons: apps 32, 48
 
-hangelog: 22.03.2023.
+Changelog: 22.03.2023.
 ----------------------
 
 Plasma Theme "Desert-Color-Plasma"
@@ -1128,6 +1128,24 @@ Plasma Theme "Desert-Plasma"
 ----------------------------
 
 Added icon: desktop.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Changelog: 30.03.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: quota.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: quota.svg
 
 Icons
 -----
