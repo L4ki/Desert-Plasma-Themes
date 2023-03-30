@@ -1152,3 +1152,8 @@ Icons
 
 Added new icons: apps 32, 48
 
+GTK Theme
+---------
+
+Update: tab-horz-gap.png, tab-vert-gap.png
+
