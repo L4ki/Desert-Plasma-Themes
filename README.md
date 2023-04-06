@@ -1157,3 +1157,21 @@ GTK Theme
 
 Update: tab-horz-gap.png, tab-vert-gap.png
 
+Changelog: 06.04.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: microphone.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: microphone.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
