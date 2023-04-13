@@ -1175,3 +1175,21 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 13.04.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: plasma.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: process.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
