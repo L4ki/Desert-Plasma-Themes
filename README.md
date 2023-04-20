@@ -1193,3 +1193,26 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 20.04.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: viewitem.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: viewitem.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: tab-left-active.png, tab-right-active.png
+
