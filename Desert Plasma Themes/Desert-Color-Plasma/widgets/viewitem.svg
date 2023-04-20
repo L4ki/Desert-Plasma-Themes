@@ -5,7 +5,7 @@
    version="1"
    id="svg128"
    sodipodi:docname="viewitem.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,8 +20,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.6807434"
-     inkscape:cx="28.526846"
-     inkscape:cy="82.45617"
+     inkscape:cx="0.13584212"
+     inkscape:cy="82.727853"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="0"
@@ -135,169 +135,176 @@
   </g>
   <g
      id="hover-top"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 71,745 h 8 v 4 h -8 z"
        id="path48" />
   </g>
   <g
      id="hover-bottom"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 71,757 h 8 v 4 h -8 z"
        id="path53" />
   </g>
   <path
      id="hover-center"
-     style="opacity:0.15;fill:currentColor;stroke-width:0.8125"
+     style="stroke-width:0.8125;fill-opacity:1;fill:currentColor;opacity:0.15;"
      class="ColorScheme-Highlight"
      d="m 11.500006,61.79812 h 13 v 13 h -13 z" />
   <g
      id="hover-right"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 79,749 h 4 v 8 h -4 z"
        id="path59" />
   </g>
   <g
      id="hover-left"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 67,749 h 4 v 8 h -4 z"
        id="path64" />
   </g>
   <g
      id="hover-topleft"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 71,745 v 4 h -4 c 0,0 0,-4 4,-4 z"
        id="path69" />
   </g>
   <g
      id="hover-topright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 79,745 c 4,0 4,4 4,4 h -4 z"
        id="path74" />
   </g>
   <g
      id="hover-bottomleft"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 67,757 h 4 v 4 c 0,0 -4,0 -4,-4 z"
        id="path79" />
   </g>
   <g
      id="hover-bottomright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)">
+     transform="matrix(1.625,0,0,1.625,-103.875,-1155.3269)"
+     style="fill:#008080;fill-opacity:1">
     <path
-       style="opacity:0.15;fill:currentColor"
+       style="fill-opacity:1;fill:currentColor;opacity:0.15;"
        class="ColorScheme-Highlight"
        d="m 79,757 h 4 c 0,0 0.01477,4 -4,4 z"
        id="path84" />
   </g>
   <g
-     id="selected_hover-top"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     id="selected+hover-top"
+     style="fill:#008080;fill-opacity:0.34999999">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       style="stroke-width:1.625;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
-       d="m 71,745 h 8 v 4 h -8 z"
+       d="m 11.5,100 h 13 v 6.5 h -13 z"
        id="path89" />
   </g>
   <g
-     id="selected_hover-bottom"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     id="selected+hover-bottom"
+     style="fill:#008080;fill-opacity:0.34999999">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       style="stroke-width:1.625;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
-       d="m 71,757 h 8 v 4 h -8 z"
+       d="m 11.5,119.5 h 13 v 6.5 h -13 z"
        id="path94" />
   </g>
-  <path
-     id="selected_hover-center"
-     style="opacity:0.9;fill:#008080;fill-opacity:1;stroke-width:0.8125"
-     class="ColorScheme-Highlight"
-     d="M 11.500002,106.50002 H 24.5 v 13 H 11.500002 Z" />
   <g
-     id="selected_hover-right"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     id="selected+hover-center"
+     style="fill:#008080;fill-opacity:0.34999999">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       id="selected_hover-center"
+       style="stroke-width:0.8125;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
-       d="m 79,749 h 4 v 8 h -4 z"
+       d="M 11.500002,106.50002 H 24.5 v 13 H 11.500002 Z" />
+  </g>
+  <g
+     id="selected+hover-right"
+     style="fill:#008080;fill-opacity:0.34999999">
+    <path
+       style="stroke-width:1.625;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
+       class="ColorScheme-Highlight"
+       d="M 24.5,106.5 H 31 v 13 h -6.5 z"
        id="path100" />
   </g>
   <g
-     id="selected_hover-left"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     id="selected+hover-left"
+     style="fill:#008080;fill-opacity:0.34999999">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       style="stroke-width:1.625;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
-       d="m 67,749 h 4 v 8 h -4 z"
+       d="m 5,106.5 h 6.5 v 13 H 5 Z"
        id="path105" />
   </g>
   <g
-     id="selected_hover-topleft"
+     id="selected+hover-topleft"
      transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     style="fill-opacity:0.34999999;fill:currentColor;"
+     class="ColorScheme-Highlight">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       style="fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
        d="m 71,745 v 4 h -4 c 0,0 0,-4 4,-4 z"
        id="path110" />
   </g>
   <g
-     id="selected_hover-topright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     id="selected+hover-topright"
+     style="fill:#008080;fill-opacity:0.34999999">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       style="stroke-width:1.625;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
-       d="m 79,745 c 4,0 4,4 4,4 h -4 z"
+       d="m 24.5,100 c 6.5,0 6.5,6.5 6.5,6.5 h -6.5 z"
        id="path115" />
   </g>
   <g
-     id="selected_hover-bottomleft"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     id="selected+hover-bottomleft"
+     style="fill:#008080;fill-opacity:0.34999999">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       style="stroke-width:1.625;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
-       d="m 67,757 h 4 v 4 c 0,0 -4,0 -4,-4 z"
+       d="m 5,119.5 h 6.5 v 6.5 c 0,0 -6.5,0 -6.5,-6.5 z"
        id="path120" />
   </g>
   <g
-     id="selected_hover-bottomright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#008080;fill-opacity:1">
+     id="selected+hover-bottomright"
+     style="fill:#008080;fill-opacity:0.34999999">
     <path
-       style="opacity:0.9;fill:#008080;fill-opacity:1"
+       style="stroke-width:1.625;fill-opacity:0.34999999;fill:currentColor;opacity:0.9;"
        class="ColorScheme-Highlight"
-       d="m 79,757 h 4 c 0,0 0.01477,4 -4,4 z"
+       d="M 24.5,119.5 H 31 c 0,0 0.024,6.5 -6.5,6.5 z"
        id="path125" />
   </g>
   <g
      id="normal-top"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;fill-opacity:1;stroke-width:1.625"
        d="m 94.165521,49.6278 h 12.999999 v 6.5 H 94.165521 Z"
@@ -306,7 +313,8 @@
   </g>
   <g
      id="normal-bottom"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;stroke-width:1.625"
        d="m 94.165521,69.1278 h 12.999999 v 6.5 H 94.165521 Z"
@@ -315,7 +323,8 @@
   </g>
   <g
      id="normal-center"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        id="hover-center-3"
        style="opacity:0.15;fill:currentColor;stroke-width:0.8125"
@@ -324,7 +333,8 @@
   </g>
   <g
      id="normal-right"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;stroke-width:1.625"
        d="m 107.16552,56.1278 h 6.5 v 13 h -6.5 z"
@@ -333,7 +343,8 @@
   </g>
   <g
      id="normal-left"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;stroke-width:1.625"
        d="m 87.665521,56.1278 h 6.5 v 13 h -6.5 z"
@@ -343,7 +354,8 @@
   <g
      id="normal-topleft"
      class="ColorScheme-Highlight"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;stroke-width:1.625"
        d="m 94.165521,49.6278 v 6.5 h -6.5 c 0,0 0,-6.5 6.5,-6.5 z"
@@ -352,7 +364,8 @@
   </g>
   <g
      id="normal-topright"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;stroke-width:1.625"
        d="m 107.16552,49.6278 c 6.5,0 6.5,6.5 6.5,6.5 h -6.5 z"
@@ -361,7 +374,8 @@
   </g>
   <g
      id="normal-bottomleft"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;stroke-width:1.625"
        d="m 87.665521,69.1278 h 6.5 v 6.5 c 0,0 -6.5,0 -6.5,-6.5 z"
@@ -370,7 +384,8 @@
   </g>
   <g
      id="normal-bottomright"
-     transform="translate(-34.665521,5.3722)">
+     transform="translate(-34.665521,5.3722)"
+     style="opacity:0.01">
     <path
        style="opacity:0.15;fill:currentColor;stroke-width:1.625"
        d="m 107.16552,69.1278 h 6.5 c 0,0 0.024,6.5 -6.5,6.5 z"
