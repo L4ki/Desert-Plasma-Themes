@@ -1216,3 +1216,21 @@ GTK Theme
 
 Update: tab-left-active.png, tab-right-active.png
 
+Changelog: 27.04.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: listitem.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: listitem.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
