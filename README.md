@@ -1234,3 +1234,27 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 04.05.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: slc.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: slc.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Added: gtk-4.0
+
+
