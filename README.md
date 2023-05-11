@@ -1257,4 +1257,27 @@ GTK Theme
 
 Added: gtk-4.0
 
+Changelog: 11.05.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: line.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: line.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: frame.png
+
 
