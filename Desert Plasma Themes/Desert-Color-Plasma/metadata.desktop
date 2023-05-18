@@ -1,20 +1,15 @@
 [Desktop Entry]
-Name=Desert-Color-Plasma
-Comment=Theme Follows Color Scheme
+Name=Desert-Plasma
+Comment=Desert-Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=l4k1987@gmail.com
-X-KDE-PluginInfo-Name=Desert-Color-Plasma
-X-KDE-PluginInfo-Version=6.6
+X-KDE-PluginInfo-Name=Desert-Plasma
+X-KDE-PluginInfo-Version=6.8
 X-KDE-PluginInfo-Website=
-X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
 
 [AdaptiveTransparency]
 enabled=true
-
-[ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=0.4
-saturation=1.7
