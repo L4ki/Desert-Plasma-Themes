@@ -1280,4 +1280,26 @@ GTK Theme
 
 Update: frame.png
 
+Changelog: 18.05.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: strawberry.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: strawberry.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: gtk-3.0, gtk-4.0
 
