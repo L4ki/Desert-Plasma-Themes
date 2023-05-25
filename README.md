@@ -1303,3 +1303,25 @@ GTK Theme
 
 Update: gtk-3.0, gtk-4.0
 
+Changelog: 25.05.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: veracrypt.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: thunderbird.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: gtkrc
