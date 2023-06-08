@@ -1348,3 +1348,26 @@ GTK Theme
 ---------
 
 Update:  tab-up-active.png, tab-up.png
+
+Changelog: 08.06.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: accessories.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: veracrypt.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update:   tab-down-active.png, tab-down.png
