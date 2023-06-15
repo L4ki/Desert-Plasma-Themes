@@ -6,7 +6,7 @@
    version="1.1"
    id="svg36"
    sodipodi:docname="qbittorrent.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="998"
      id="namedview38"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="18.984019"
-     inkscape:cy="16.826744"
+     inkscape:cx="12.89571"
+     inkscape:cy="32.167366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,7 +49,7 @@
      inkscape:document-rotation="0"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#808080">
     <inkscape:grid
        type="xygrid"
        id="grid923"
@@ -74,7 +74,7 @@
        d="M 32,10 H 54 V 32 H 32 Z"
        id="path6" />
     <path
-       style="fill:#7a96b8;fill-opacity:1"
+       style="fill:#55759c;fill-opacity:1"
        d="m 45,13 a 1,1 0 0 0 -1,1 v 11 h 2 v -0.541016 c 0.607485,0.353206 1.297298,0.539172 2,0.541016 2.209139,0 4,-1.790861 4,-4 0,-2.209139 -1.790861,-4 -4,-4 -0.70252,0.0012 -1.392321,0.186555 -2,0.539062 V 14 a 1,1 0 0 0 -1,-1 z m 3,6 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
        id="path8" />
     <path
@@ -98,7 +98,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccssscccccsssss" />
     <path
-       style="fill:#7a96b8;fill-opacity:1;stroke-width:1.1127"
+       style="fill:#55759c;fill-opacity:1;stroke-width:1.1127"
        d="M 18.5,4 C 17.602538,4 16.950665,4.7675429 16.958335,5.7142857 L 17,16 v 7 h 3 v -1.401786 c 0.838563,0.451877 2.100038,0.687153 3.041666,0.6875 3.290696,0 5.958333,-2.814211 5.958333,-6.285714 0,-3.471504 -2.667637,-6.2857145 -5.958333,-6.2857145 C 22.099597,9.7164569 20.838098,9.9546249 20,10.408482 V 5.7142857 C 20,4.7675119 19.397463,4 18.5,4 Z m 4.541666,9.142857 c 1.495771,0 2.908334,1.279186 2.908334,2.857143 0,1.577956 -1.412563,2.857142 -2.908334,2.857142 C 21.545895,18.857142 20.133,17.577956 20.133,16 c 0,-1.577957 1.412895,-2.857143 2.908666,-2.857143 z"
        id="path29"
        inkscape:connector-curvature="0"
