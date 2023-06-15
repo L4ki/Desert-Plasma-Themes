@@ -1371,3 +1371,26 @@ GTK Theme
 ---------
 
 Update:   tab-down-active.png, tab-down.png
+
+Changelog: 15.06.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: skype.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: qbittorrent.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: tab-right.png, tab-left.png
