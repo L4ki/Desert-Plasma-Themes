@@ -13,3 +13,6 @@ X-Plasma-API=5.0
 
 [AdaptiveTransparency]
 enabled=true
+
+[BlurBehindEffect]
+enabled=true
