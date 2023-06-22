@@ -1394,3 +1394,30 @@ GTK Theme
 ---------
 
 Update: tab-right.png, tab-left.png
+
+Changelog: 22.06.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update: metadata.desktop
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update: metadata.desktop
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: gtkrc
+
+Aurorae Themes
+--------------
+Update: Auroraerc, decoration.svg
