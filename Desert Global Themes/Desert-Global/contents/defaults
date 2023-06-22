@@ -24,6 +24,6 @@ name=Desert-Plasma
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Desert-Aurorae
+theme=__aurorae__svg__Desert-Color-Aurorae
 
 
