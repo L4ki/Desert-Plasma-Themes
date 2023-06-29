@@ -1421,3 +1421,26 @@ Update: gtkrc
 Aurorae Themes
 --------------
 Update: Auroraerc, decoration.svg
+
+Changelog: 29.06.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: utilities.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widgets: panel-background.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: line.png
