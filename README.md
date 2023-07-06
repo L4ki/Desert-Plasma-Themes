@@ -1444,3 +1444,26 @@ GTK Theme
 ---------
 
 Update: line.png
+
+Changelog: 06.07.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: slider.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: yakuake.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: gtk-3.0
