@@ -1467,3 +1467,27 @@ GTK Theme
 ---------
 
 Update: gtk-3.0
+
+Changelog: 13.07.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: actionbutton.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added widget: analog_meter.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: bullet-symbolic.svg
+
