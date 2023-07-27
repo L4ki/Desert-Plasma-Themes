@@ -1514,3 +1514,27 @@ GTK Theme
 
 Update: checkmark-symbolic.svg
 
+Changelog: 27.07.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: radiobutton.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added widget: radiobutton.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
+GTK Theme
+---------
+
+Update: dash-symbolic.svg
+
+
