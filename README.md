@@ -1514,7 +1514,7 @@ GTK Theme
 
 Update: checkmark-symbolic.svg
 
-Changelog: 27.07.2023.
+Changelog: 28.07.2023.
 ----------------------
 
 Plasma Theme "Desert-Color-Plasma"
