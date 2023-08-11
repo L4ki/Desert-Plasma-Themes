@@ -1571,7 +1571,7 @@ Added widget: picker.svg
 Plasma Theme "Desert-Plasma"
 ----------------------------
 
-Added widget: mpicker.svg
+Added widget: picker.svg
 
 Icons
 -----
