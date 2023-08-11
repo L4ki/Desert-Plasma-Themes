@@ -1560,4 +1560,27 @@ GTK Theme
 
 Update: gtk-2.0
 
+Changelog: 11.08.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: picker.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added widget: mpicker.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: button-hover.png
+
 
