@@ -1583,4 +1583,27 @@ GTK Theme
 
 Update: button-hover.png
 
+Changelog: 18.08.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: switch.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added widget: switch.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: hacks-dark.rc
+
 
