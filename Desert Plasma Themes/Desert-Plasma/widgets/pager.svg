@@ -5,7 +5,7 @@
    height="31"
    id="svg11324"
    sodipodi:docname="pager.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="994"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="11.313709"
@@ -37,12 +37,17 @@
      inkscape:lockguides="false"
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid864"
        originx="-4.9609986"
-       originy="-12.008" />
+       originy="-12.008"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata3500">
@@ -214,7 +219,7 @@
        x="26.985224"
        y="7.999661"
        id="ergrerg"
-       style="opacity:1;fill:#4e5a7e;fill-opacity:0.2;stroke:none;stroke-width:0.998918" />
+       style="opacity:1;fill:#556fa6;fill-opacity:0.60392159;stroke:none;stroke-width:0.998918" />
   </g>
   <g
      id="normal-bottomright"
@@ -250,7 +255,7 @@
      x="7.0000019"
      y="21.900013"
      id="active-center"
-     style="opacity:0.1;fill:#4d94ff;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#4181c2;fill-opacity:0.40000001;stroke:none" />
   <g
      id="hover-center"
      transform="translate(-1,2.9)">
@@ -260,7 +265,7 @@
        x="7.999999"
        y="10.00001"
        id="rect6882"
-       style="opacity:0.1;fill:#00b2b2;fill-opacity:0.05;stroke:none;stroke-width:1.00334" />
+       style="opacity:1;fill:#00aad4;fill-opacity:0.60000002;stroke:none;stroke-width:1.00334" />
     <rect
        style="opacity:0.01;fill:url(#radialGradient2384);fill-opacity:1;stroke-width:0.0999996;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect1496"
