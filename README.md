@@ -1606,4 +1606,27 @@ GTK Theme
 
 Update: hacks-dark.rc
 
+Changelog: 25.08.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: analog_meter.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: pager.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: gtkrc
+
 
