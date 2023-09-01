@@ -1630,3 +1630,26 @@ GTK Theme
 Update: gtkrc
 
 
+Changelog: 01.09.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: image.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: image.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: tab-up-active.png
+
