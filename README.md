@@ -1653,3 +1653,26 @@ GTK Theme
 
 Update: tab-up-active.png
 
+Changelog: 08.09.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added: wind-arrows.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added : wind-arrows.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: border.png
+
