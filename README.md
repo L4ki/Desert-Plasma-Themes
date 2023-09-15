@@ -1676,3 +1676,26 @@ GTK Theme
 
 Update: border.png
 
+Changelog: 15.09.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: tooltip.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: tooltip.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: frame-notebook.png
+
