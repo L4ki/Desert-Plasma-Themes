@@ -1699,3 +1699,26 @@ GTK Theme
 
 Update: frame-notebook.png
 
+Changelog: 22.09.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: frame.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: action-overlays.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: frame-inline.png
+
