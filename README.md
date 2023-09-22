@@ -1705,7 +1705,7 @@ Changelog: 22.09.2023.
 Plasma Theme "Desert-Color-Plasma"
 ---------------------------------
 
-Update widget: frame.svg
+Added widget: frame.svg
 
 Plasma Theme "Desert-Plasma"
 ----------------------------
