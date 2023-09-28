@@ -1722,3 +1722,26 @@ GTK Theme
 
 Update: frame-inline.png
 
+Changelog: 29.09.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: scrollwidget.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: actionbutton.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: focus.png
+
