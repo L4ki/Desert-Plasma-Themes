@@ -1745,3 +1745,26 @@ GTK Theme
 
 Update: focus.png
 
+Changelog: 06.10.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added widget: timer.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: transform.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: menu-border.png
+
