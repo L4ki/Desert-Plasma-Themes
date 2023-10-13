@@ -1768,3 +1768,26 @@ GTK Theme
 
 Update: menu-border.png
 
+Changelog: 13.10.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: transform.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: arrows.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: frame.png
+
