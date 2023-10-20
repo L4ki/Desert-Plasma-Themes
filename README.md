@@ -1791,3 +1791,26 @@ GTK Theme
 
 Update: frame.png
 
+Changelog: 20.10.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update: line.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: line.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: handle.png
+
