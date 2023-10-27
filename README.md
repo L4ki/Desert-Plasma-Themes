@@ -1814,3 +1814,26 @@ GTK Theme
 
 Update: handle.png
 
+
+Changelog: 27.10.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: panel-background.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: panel-background.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: treeview-separator-ltr.png
