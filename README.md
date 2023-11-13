@@ -1861,3 +1861,26 @@ GTK Theme
 ---------
 
 Update: gtkrc
+
+Changelog: 13.11.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Added icon: widget.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: widget.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: treeview-separator-rtl.png
