@@ -1930,3 +1930,26 @@ GTK Theme
 ---------
 
 Update: progressbar-horz-trough.png
+
+Changelog: 04.12.2023.
+----------------------
+
+Plasma Theme "Desert-Color-Plasma"
+---------------------------------
+
+Update widget: clock.svg
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: clock.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: styles
