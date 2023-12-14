@@ -1953,3 +1953,21 @@ GTK Theme
 ---------
 
 Update: styles
+
+Changelog: 14.12.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: telegram.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Aurorae Themes
+--------------
+
+Update: alldesktops.svg
