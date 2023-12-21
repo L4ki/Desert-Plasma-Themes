@@ -1971,3 +1971,27 @@ Aurorae Themes
 --------------
 
 Update: alldesktops.svg
+
+
+Changelog: 21.12.2023.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Update widget: configuration-icons.svg
+
+Plasma Theme "Desert-Color-Plasma"
+----------------------------------
+
+Added widget: media-delegate.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
