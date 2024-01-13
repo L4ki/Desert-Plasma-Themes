@@ -1995,3 +1995,26 @@ Aurorae Themes
 --------------
 
 Update: decoration.svg
+
+Changelog: 14.01.2024.
+----------------------
+
+Plasma Theme "Desert-Plasma"
+----------------------------
+
+Added icon: solaar.svg
+
+Plasma Theme "Desert-Color-Plasma"
+----------------------------------
+
+Added icon: solaar.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: keepabove.svg
