@@ -36,23 +36,28 @@ Download: https://store.kde.org/p/1749093
 [![3.jpg](https://i.postimg.cc/8cf5CQjb/3.jpg)](https://postimg.cc/7JDDBR1C)
 
 
-Changelog: 21.01.2024.
+Changelog: 28.01.2024.
 ----------------------
 
-Plasma Theme
-------------
+Plasma Theme "Desert-Plasma"
+---------------------------
 
-Added icon: osd.svg
+Update widget: arrows.svg
+
+Plasma Theme "Desert-Color-Plasma"
+----------------------------------
+
+Added widget: branding.svg
 
 Icons
 -----
 
 Added new icons: apps 48
 
-Aurorae Theme "Desert-Color-Aurorae"
+Aurorae Themes
 ------------------------------------
 
-Update: shade.svg
+Update: alldesktops.svg
 
 
 
