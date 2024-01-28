@@ -163,7 +163,7 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#000000"
+     bordercolor="#030303"
      pagecolor="#ffffff"
      inkscape:document-rotation="0"
      inkscape:snap-intersection-paths="true"
@@ -171,7 +171,7 @@
      showguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        id="grid853"
        type="xygrid"
