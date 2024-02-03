@@ -36,18 +36,18 @@ Download: https://store.kde.org/p/1749093
 [![3.jpg](https://i.postimg.cc/8cf5CQjb/3.jpg)](https://postimg.cc/7JDDBR1C)
 
 
-Changelog: 28.01.2024.
+Changelog: 04.02.2024.
 ----------------------
 
 Plasma Theme "Desert-Plasma"
 ---------------------------
 
-Update widget: arrows.svg
+Added icon: sogoupinyin.svg
 
 Plasma Theme "Desert-Color-Plasma"
 ----------------------------------
 
-Added widget: branding.svg
+Added icon: sogoupinyin.svg
 
 Icons
 -----
@@ -57,7 +57,7 @@ Added new icons: apps 48
 Aurorae Themes
 ------------------------------------
 
-Update: alldesktops.svg
+Update: maximize.svg
 
 
 
