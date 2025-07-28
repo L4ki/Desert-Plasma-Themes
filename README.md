@@ -37,28 +37,13 @@ Download: https://store.kde.org/p/1749093
 ___________________________________________________________________________
 
 
-Changelog: 23.02.2024.
+Changelog: 28.07.2025.
 ----------------------
-
-Plasma Theme "Desert-Plasma"
----------------------------
-
-Update widget: scrollbar.svg
-
-Plasma Theme "Desert-Color-Plasma"
-----------------------------------
-
-Update widget: busywidget.svg
 
 Icons
 -----
 
 Added new icons: apps 48
-
-Aurorae Themes
-------------------------------------
-
-Update: help.svg
 
 
 
