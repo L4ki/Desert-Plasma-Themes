@@ -45,5 +45,10 @@ Icons
 
 Added new icons: apps 48
 
+Plasma Theme
+------------
+
+Update widgets: background.svg, tasks.svg
+
 
 
