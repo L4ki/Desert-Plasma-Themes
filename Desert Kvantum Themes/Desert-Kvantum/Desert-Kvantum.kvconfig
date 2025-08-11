@@ -103,22 +103,27 @@ transparent_pcmanfm_view=false
 opaque_colors=false
 
 [PanelButtonCommand]
-frame.element=button
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+inherits=PanelButtonCommand
 interior.element=button
-indicator.size=10
-text.shadow=0
-text.margin=1
+frame.element=button
+text.normal.color=#d3dae3
+text.focus.color=white
+text.press.color=white
+text.toggle.color=#ffffff
+frame=true
+frame.element=button
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
+interior=true
+indicator.size=6
+frame.expansion=10
 text.iconspacing=4
-indicator.element=arrow
-text.margin.top=4
-text.margin.bottom=4
-text.margin.left=4
-text.margin.right=4
-frame.expansion=12
+text.margin.top=2
+text.margin.bottom=3
+text.margin.left=2
+text.margin.right=2
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -273,7 +278,9 @@ frame.right=4
 
 [SliderCursor]
 inherits=PanelButtonCommand
+interior=true
 interior.element=slidercursor
+frame=false
 
 [Progressbar]
 inherits=PanelButtonCommand
@@ -347,12 +354,33 @@ frame.bottom=4
 frame.left=4
 frame.right=4
 frame.expansion=0
+indicator.element=arrow
+indicator.size=9
 
 [MenuBar]
 inherits=PanelButtonCommand
 frame.element=none
 interior.element=none
 frame.expansion=0
+
+[MenuItem]
+inherits=PanelButtonCommand
+frame=true
+frame.element=menuitem
+interior.element=menuitem
+indicator.element=menuitem
+size.minheight=22
+text.margin.top=0
+text.margin.bottom=0
+text.margin.left=4
+text.margin.right=4
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
+frame.expansion=0
+indicator.element=arrow
+indicator.size=9
 
 [MenuBarItem]
 inherits=PanelButtonCommand
@@ -367,8 +395,11 @@ text.margin.left=4
 text.margin.right=4
 text.margin.top=0
 text.margin.bottom=0
-text.normal.color=#d6dbf1
-text.focus.color=#d6dbf1
+text.normal.color=#d3dae3
+text.focus.color=#d3dae3
+text.bold=false
+min_width=+0.3font
+min_height=+0.3font
 frame.expansion=0
 
 [TitleBar]
@@ -389,14 +420,14 @@ indicator.size=12
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=0
-frame.bottom=0
-frame.left=0
-frame.right=0
+frame.top=8
+frame.bottom=8
+frame.left=8
+frame.right=8
 frame.element=menu
 interior.element=menu
-size.minheight=22
-size.minwidth=22
+text.normal.color=#d3dae3
+text.shadow=false
 frame.expansion=0
 
 [GroupBox]
