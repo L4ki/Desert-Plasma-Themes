@@ -37,7 +37,7 @@ Download: https://store.kde.org/p/1749093
 ___________________________________________________________________________
 
 
-Changelog: 11.08.2025.
+Changelog: 18.08.2025.
 ----------------------
 
 Icons
@@ -48,7 +48,11 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widgets: background.svg, tasks.svg
+Update widgets: metadata.desktop
 
+GTK Theme
+---------
+
+Update: gtkrc
 
 
