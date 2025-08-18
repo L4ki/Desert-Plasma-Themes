@@ -21,6 +21,10 @@ Download: https://www.pling.com/p/1733294
 Desert-Plasma
 -------------
 
+<img width="1920" height="1080" alt="logo-1" src="https://github.com/user-attachments/assets/98cd04b3-d783-4294-ac2b-6d7a67e6452e" />
+
+<img width="1920" height="1080" alt="logo-3" src="https://github.com/user-attachments/assets/a6cd484f-d4b2-421f-91fc-3e8450eaba38" />
+
 [![Logo-3.png](https://i.postimg.cc/YSPm7YMJ/Logo-3.png)](https://postimg.cc/67dQL770)
 
 Desert-Color-Plasma
