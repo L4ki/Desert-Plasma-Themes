@@ -41,7 +41,7 @@ Download: https://store.kde.org/p/1749093
 ___________________________________________________________________________
 
 
-Changelog: 18.08.2025.
+Changelog: 25.08.2025.
 ----------------------
 
 Icons
@@ -57,6 +57,6 @@ Update widgets: metadata.desktop
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: gtk-3.0
 
 
