@@ -52,7 +52,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widgets: metadata.desktop
+Update: metadata.desktop
 
 GTK Theme
 ---------
