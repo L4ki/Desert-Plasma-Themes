@@ -41,13 +41,13 @@ Download: https://store.kde.org/p/1749093
 ___________________________________________________________________________
 
 
-Changelog: 29.09.2025.
+Changelog: 13.10.2025.
 ----------------------
 
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: apps 32, 48
 
 Plasma Theme
 ------------
