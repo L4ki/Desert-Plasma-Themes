@@ -41,13 +41,13 @@ Download: https://store.kde.org/p/1749093
 ___________________________________________________________________________
 
 
-Changelog: 10.11.2025.
+Changelog: 17.11.2025.
 ----------------------
 
 Icons
 -----
 
-Added new icons: apps 22
+Added new icons: apps 24
 
 Plasma Theme
 ------------
@@ -57,5 +57,5 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: gtk-4.0
 
